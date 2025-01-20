@@ -11,8 +11,8 @@ Rails versions: 7.2.2.1
 2. Clone the backend repo: [https://github.com/edje-jeter/npi-be](https://github.com/edje-jeter/npi-be)
 3. In a terminal window, setup the backend server:
    > bundle install  
-   > rails db:create  
-   > rails db:migrate
+   > rake db:create  
+   > rake db:migrate
 
 # Run the app
 1. Open two terminal windows
