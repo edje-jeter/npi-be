@@ -1,0 +1,37 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  address_1: MyString
+  address_2: MyString
+  city: MyString
+  country_code: MyString
+  country_name: MyString
+  credential: MyString
+  name_first: MyString
+  name_last: MyString
+  name_middle: MyString
+  name_organization: MyString
+  npi: MyString
+  nppes_last_updated: MyString
+  nppes_type: MyString
+  postal_code: MyString
+  primary_taxonomy: MyString
+  state: MyString
+
+two:
+  address_1: MyString
+  address_2: MyString
+  city: MyString
+  country_code: MyString
+  country_name: MyString
+  credential: MyString
+  name_first: MyString
+  name_last: MyString
+  name_middle: MyString
+  name_organization: MyString
+  npi: MyString
+  nppes_last_updated: MyString
+  nppes_type: MyString
+  postal_code: MyString
+  primary_taxonomy: MyString
+  state: MyString
